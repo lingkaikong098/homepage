@@ -13,6 +13,7 @@ Politics, etc.
 
 <img src="https://github.com/lingkaikong098/homepage/blob/main/source/iue.png" width="600"  />
 
+![image](https://github.com/lingkaikong098/homepage/blob/main/source/iue.png)
 <br/> 
 
 ## University of Zurich, Switzerland
