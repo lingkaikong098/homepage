@@ -1,4 +1,4 @@
-# hexo-netlify-cms-vercel
+# KONG Lingkai, 孔令恺 
 
 A templete to deploy a **Hexo** blog with **Netlify-CMS** on **Vercel**.
 
