@@ -5,7 +5,7 @@ hahahahha supported by Vercel
 
 # Additional improvements
 
-- Customized 404 page
+- Cu......e
 
 # Usage
 
