@@ -5,19 +5,25 @@ date: 2021-04-04T13:24:02.918Z
 
 # hlingkaikong
 
-A templete to deploy a **Hexo** blog with **Netlify-CMS** on **Vercel**.
+Doctor of Philosophy (PhD) in Political Science
+Izmir University of Economics, Turkey		Sept. 2021-present
+·Relevant courses: Political Theory, Comparative Politics, International Relations, Conventional Security, Turkish 
+Politics, etc.
 
-✔ Totally free of charge
+Master of Arts (MA) in Economics		
+University of Zurich, Switzerland		Sept. 2019-Sept. 2021
+·Major in Economics; Minor in Quantitative Finance. 
+·Relevant courses: Advanced Macroeconomics, Advanced Microeconomics1&2, Monetary Policy Analysis: 
+Empirical Modelling, Empirical Method, Computational Economics and Finance, Quantitative Finance, etc.
+·Master thesis: The Short- and Long-term Impact of Local Protectionism on Chinese Listed Companies in the Context of 2008 Financial Crisis.☚ Supervised by PD Dr. Sylvia Kaufmann.
 
-✔ Static web pages, no rendering time
+Bachelor of Arts (BA) in Economics		
+Beijing Foreign Studies University, China		Sept. 2015-Jun. 2019 
+·Major in International Economics and Trade; Minor in Spanish Language and Literature.
+·Relevant courses: Advanced Mathematics I&II, Linear Algebra, Statistics, Probability Theory and Mathematical Statistics, Microeconomics, Macroeconomics, Western Civilization, Economic History of the World, Spanish, etc.
+·Bachelor thesis: Population density and divorce rate of Chinese cities. Supervised by Prof. Dr. Rong He.
 
-✔ Edit online, just as simple as using a dynamic CMS, supported by Netlify-CMS
 
-✔ No local environment required, you can edit your pages on any devices, everywhere
-
-✔ Zero coding
-
-✔ Preview is supported by Netlify-CMS and Netlify
 
 ✔ Vercel CDN makes your pages to load quickly from anywhere in the world, including China Mainland
 
@@ -29,23 +35,7 @@ A templete to deploy a **Hexo** blog with **Netlify-CMS** on **Vercel**.
 
 # Usage
 
-1. Click `Use this template` to fork this repository. It can be private.
 
-1. Modify `/source/admin/config.yml`. Change the value of `backend.repo` and `backend.base_url` to yours.
-
-1. Go to [Github Developer applications](https://github.com/settings/developers) and create a new oauth app. The only important field is `Authorization callback URL`, input `https://<domain>/callback`, where `<domain>` is domain from step 2, also note that HTTPS is required. And then generate a new client secret.
-
-1. Go to [**Vercel**](https://vercel.com/new) to import your repository and create a new project. Before clicking `Deploy` button, add the Environment Variables **`OAUTH_GITHUB_CLIENT_ID`** and **`OAUTH_GITHUB_CLIENT_SECRET`** and set the values as generated in the previous step.
-
-1. Click `Deploy` button and waiting for the deployment finished.
-
-1. Maybe you need to change the **Vercel** provided domain in *Settings > Domains*.
-
-1. Open **`https://<domain>/admin/`** and login to the **Netlify-CMS** back-end.
-
-1. Test whether **Netlify-CMS** is working properly.
-
-1. If you need the preview feature provided by **Netlify-CMS**, that is, provides you a preview link on the article writing page once you click `save` button, you also need to link your blog repository to [**Netlify**](https://app.netlify.com/start). This is similar to link to **Vercel**, but you do not need to add Environment Variables since you do not use **Netlify-CMS** on the **Netlify** provided domain.
 
 1. Congratulations! You have successfully deployed a **Hexo** blog with **Netlify-CMS** on **Vercel**.
 
