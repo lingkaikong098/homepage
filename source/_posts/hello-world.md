@@ -11,6 +11,8 @@ date: 2021-12-26T13:24:02.918Z
 **Relevant courses**: Political Theory, Comparative Politics, International Relations, Conventional Security, Turkish 
 Politics, etc.
 
+<img src="https://github.com/lingkaikong098/homepage/blob/main/source/iue.png" width="600"  />
+
 <br/> 
 
 ## University of Zurich, Switzerland
@@ -23,6 +25,8 @@ Empirical Modelling, Empirical Method, Computational Economics and Finance, Quan
 
 **Master thesis**: The Short- and Long-term Impact of Local Protectionism on Chinese Listed Companies in the Context of 2008 Financial Crisis. Supervised by PD Dr. Sylvia Kaufmann.
 
+<img src="https://github.com/lingkaikong098/homepage/blob/main/source/uzh.png" width="600"  />
+
 <br/> 
 
 ## Beijing Foreign Studies University, China
@@ -33,6 +37,8 @@ Major in International Economics and Trade; Minor in Spanish Language and Litera
 **Relevant courses**: Advanced Mathematics I&II, Linear Algebra, Statistics, Probability Theory and Mathematical Statistics, Microeconomics, Macroeconomics, Western Civilization, Economic History of the World, Spanish, etc.
 
 **Bachelor thesis**: Population density and divorce rate of Chinese cities. Supervised by Prof. Dr. Rong He.
+
+<img src="https://github.com/lingkaikong098/homepage/blob/main/source/bfsu.png" width="600"  />
 
 
 
