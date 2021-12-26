@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: hangvane/hexo-netlify-cms-vercel # Path to your Github/Gitlab repository
+  repo: lingkaikong098/homepage # Path to your Github/Gitlab repository
   branch: main # Branch to update
-  base_url: https://hexo-netlify-cms.vercel.app
+  base_url: https://github.com/lingkaikong098/homepage
 
 # These lines should *not* be indented
 media_folder: 'source/images' # Media files will be stored in the repo under source/images
