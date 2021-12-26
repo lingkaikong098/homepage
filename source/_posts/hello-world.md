@@ -3,7 +3,7 @@ title: lingkaikong
 date: 2021-04-04T13:24:02.918Z
 ---
 
-# hexo-netlify-cms-vercel
+# hlingkaikong
 
 A templete to deploy a **Hexo** blog with **Netlify-CMS** on **Vercel**.
 
